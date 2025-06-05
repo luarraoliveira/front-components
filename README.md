@@ -118,12 +118,6 @@ fix: corrige bug de alinhamento no header
 style: melhora espaçamento entre seções
 ```
 
----
-
-## 💡 Dica final
-
-> Código bom não é aquele que funciona, é aquele que funciona **e é fácil de manter**.
-
 ## 📷 Exemplo visual
 
 ![Exemplo de style guide](./A_style_guide_image_displays_design_elements_on_a_.png)
@@ -141,3 +135,9 @@ style: melhora espaçamento entre seções
 ## 🧪 Sugestão
 
 Sinta-se à vontade para adaptar ou expandir conforme for evoluindo nos estudos!
+
+---
+
+## 💡 Dica final
+
+> Código bom não é aquele que funciona, é aquele que funciona **e é fácil de manter**.
