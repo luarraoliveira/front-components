@@ -11,9 +11,22 @@ Fornecer uma base visual simples e reutilizável com:
 - Botões
 - Campos de formulário
 
+## 📁 Estrutura de Pastas
+
+├── index.html
+├── assets/
+│ ├── css/
+│ │ └── style.css
+│ ├── js/
+│ │ └── script.js
+│ └── img/
+│ └── logo.png
+├── components/
+│ └── header.html
+└── README.md
+
 ## 🧰 Tecnologias utilizadas
 
-- Figma (para o design visual)
 - Markdown (documentação)
 - Google Fonts (Roboto)
 
