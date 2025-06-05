@@ -33,8 +33,4 @@ Fornecer uma base visual simples e reutilizável com:
 
 ## 🧪 Sugestão
 
-Você pode duplicar esse modelo no Figma e personalizar conforme seu projeto. A ideia é manter o layout simples e funcional.
-
----
-
 Sinta-se à vontade para adaptar ou expandir conforme for evoluindo nos estudos!
