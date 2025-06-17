@@ -4,3 +4,4 @@ const toggleMenu = () => {
 };
 
 document.querySelector('.menu-button')?.addEventListener('click', toggleMenu);
+
